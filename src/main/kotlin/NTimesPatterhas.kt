@@ -5,7 +5,8 @@ fun main()
 
     for (i in 1..num) {
         val j=1
-        for (j in j..i) {
+        for (j in j..i)
+        {
             print("* ")
         }
 
